@@ -18,6 +18,14 @@ Tratamento de erros para os contextos de MovieSearchEngine e IPAddresFinder
 
 #### Evitar tarefas duplicados ao editar
 
+### QuizzApp
+
+#### Adicionado mais perguntas
+
+### MovieSearchEngine
+
+#### Melhoramento na pesquisa de filmes
+
 ## Autenticação JWT
 
 Simulação de autenticação JWT através de geração de token ao logar.
